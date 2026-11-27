@@ -1,0 +1,6 @@
+{
+  "name": "GOLF — News, Instruction, Gear & Travel",
+  "description": "Tour news, lessons from the Top 100 Teachers, honest gear fits and the world's best courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
